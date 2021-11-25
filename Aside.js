@@ -91,7 +91,7 @@ const Aside = ({ image, collapsed, rtl, toggled, handleToggleSidebar }) => {
           }}
         >
           <a
-            href="https://github.com/azouaoui-med/react-pro-sidebar"
+            href="/"
             target="_blank"
             className="sidebar-btn"
             rel="noopener noreferrer"
